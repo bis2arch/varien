@@ -1,0 +1,15 @@
+{
+    "name": "bis2arch/varien",
+    "type": "library",
+    "license": "OSL-3.0",
+    "minimum-stability": "dev",
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require": {
+        "phpseclib/phpseclib": "*",
+        "bis2arch/zend":"*"
+    }
+}

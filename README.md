@@ -1,1 +1,1 @@
-# varien
+# Varien Library [Magento 1 LTS](https://github.com/OpenMage/magento-lts)
